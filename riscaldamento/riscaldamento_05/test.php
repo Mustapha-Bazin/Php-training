@@ -7,3 +7,4 @@ $array=["cammello","dromedario","giraffa"];
 list1($array);
 
 ?>
+
