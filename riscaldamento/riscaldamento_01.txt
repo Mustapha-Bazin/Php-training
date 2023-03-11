@@ -1,5 +1,5 @@
 
-11/03/2023
+11/03/2023 ---->>> //TRAINING TO WRITE IN KEYBOARD
 [8h33]:start
 programmazione strutturata tipo di programmazioe basato tipicamente sul metodo top down, per cui si suddivide il problemma principale in vari sttoproblemi, ciascino dei quali a sua volta ulteriormente scomponibile, sino ad arrivare alla definizioe di problemi elementari semplici o non ulteriormente suddivisibili. Per la scrittura dele istruzioni e l'implementazione degli algoritmi ;a programmazione strutturata utiliza le seguenti tipologie di strutture:
 *il blocco: la struttura a blocchi prevede gruppi di istruzioni di trattati come un'unita indipendenti dalle altre; essi si riconoscono perche iniziano e finiscono con delimitatori (inizia...finisci); i blocchi possono avere svariati significatifi e funzionalita. Appartengono per esempio a questa struttura i sottoprogrammi e i segmenti di programma che vengono seguiti quando l'automa esecutore sposte il controllo (ossia salta) in un punto diverso del programma stesso;
